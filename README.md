@@ -1,8 +1,8 @@
-[![MasterHead](https://dribbble.com/shots/24803693-Visualizing-Python-3D-Illustration-of-a-Coding-Powerhouse)]
+![MasterHead](https://cdn.dribbble.com/userupload/16418336/file/original-4c3fd5c6563b9572a50a8a7936b203ce.png?resize=1024x768)
 
 <h1 align="center">Hi 👋, I'm Ashmit a.k.a SmooZie</h1>
 <h3 align="center">Aspiring Python Developer, I specialize in Database management,UI/UX</h3>
-<img align="right" alt="Coding" width="400" src="![212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c](https://github.com/user-attachments/assets/211be371-c7f8-4936-829c-de29963cbd4b)">
+<img align="center" alt="Coding" width="1200" height="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-ashxy&label=Profile%20views&color=0e75b6&style=flat" alt="dev-ashxy" /> </p>
@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **Transcription-Controller**
 
-- 🌱 I’m currently learning **Python,**
+- 🌱 I’m currently learning **Python**
 
 - 💬 Ask me about **UI/UX,JS,C++,MongoDB**
 
