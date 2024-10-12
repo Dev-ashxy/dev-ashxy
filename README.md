@@ -2,8 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Ashmit a.k.a SmooZie</h1>
 <h3 align="center">Aspiring Python Developer, I specialize in Database management,UI/UX</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif
-">
+![212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c](https://github.com/user-attachments/assets/211be371-c7f8-4936-829c-de29963cbd4b)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-ashxy&label=Profile%20views&color=0e75b6&style=flat" alt="dev-ashxy" /> </p>
 
