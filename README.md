@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ashmit a.k.a SmooZie</h1>
 <h3 align="center">Aspiring Python Developer, I specialize in Database management,UI/UX</h3>
-<img align="center" alt="Coding" width="2000" height="600" src="https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif">
+<img align="center" alt="Coding" width="1400" height="400" src="https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-ashxy&label=Profile%20views&color=0e75b6&style=flat" alt="dev-ashxy" /> </p>
