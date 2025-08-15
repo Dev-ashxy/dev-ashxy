@@ -8,11 +8,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-ashxy" alt="dev-ashxy" /></a> </p>
 
 
-- 🔭 I’m currently working on **Transcription-Controller**
+- 🔭 I’m currently working on **Resume-Parser-Predictor**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **MySql**
 
-- 💬 Ask me about **UI/UX,JS,C++,MongoDB**
+- 💬 Ask me about **UI/UX,JS,C++,MongoDB,Java**
 
 - 📫 How to reach me **asmitbar34@gmail.com**
 
