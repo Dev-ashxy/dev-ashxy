@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Asmit a.k.a SmooZie</h1>
 <h3 align="center">Aspiring Python Developer, I specialize in Database management,UI/UX</h3>
 
-![image](https://github.com/user-attachments/assets/e9aba9f8-4a2b-42ff-bc64-d8b1846fa444)
+![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
 
 
