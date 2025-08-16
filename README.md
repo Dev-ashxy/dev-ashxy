@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Asmit a.k.a SmooZie</h1>
 <h3 align="center">Aspiring Python Developer, I specialize in Database management,UI/UX</h3>
-<img align="center" alt="Coding" width="1400" height="400" src="https://images.app.goo.gl/228yc5JNfuHrMi1U6">
+
+![image](https://github.com/user-attachments/assets/e9aba9f8-4a2b-42ff-bc64-d8b1846fa444)
+
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-ashxy&label=Profile%20views&color=0e75b6&style=flat" alt="dev-ashxy" /> </p>
