@@ -1,7 +1,7 @@
 <div style="border: 2px solid #408332ff; padding: 20px; border-radius: 10px;">
 
 <h1 align="center">Hi 👋, I'm Asmit</h1>
-<h3 align="center">An ECE'26 undergrad who loves sippin coffee, petting cats and touching some grass 😼</h3>
+<h3 align="center">An ECE'26 undergrad who loves sippin coffee☕, petting cats 😼 and touching some grass 🌿</h3>
 
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-ashxy&label=Profile%20views&color=0e75b6&style=flat" alt="dev-ashxy" /> </p>
 
-<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=kimbie_dark" alt="dev-ashxy" /></p>
+<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=dev-ashxy&theme=kimbie_dark" alt="dev-ashxy" /></p>
 
 
 - 🔭 I’m currently working on **Code-Playground**
