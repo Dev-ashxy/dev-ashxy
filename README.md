@@ -49,7 +49,7 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=dev-ashxy&show_icons=true&theme=tokyonight" alt="Anurag's GitHub stats" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-ashxy&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="dev-ashxy" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-ashxy&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="dev-ashxy" /></p>
 
 <p align="center"><a href="https://github.com/piyushsuthar/github-readme-quotes"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Readme Quotes" /></a></p>
 
