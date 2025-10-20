@@ -32,12 +32,10 @@
 <a href="https://discord.gg/smoozie_9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="smoozie_9" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">GitHub Badges:</h3>
+<h3 align="center">GitHub Achievement Badges:</h3>
 <p align="center">
-  <img src="https://img.shields.io/github/followers/dev-ashxy?style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/dev-ashxy?style=social" alt="GitHub Stars" />
-  <img src="https://img.shields.io/github/repos/dev-ashxy?style=social" alt="GitHub Repositories" />
-  <img src="https://img.shields.io/github/last-commit/dev-ashxy/dev-ashxy?style=social" alt="Last Commit" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" alt="Pull Shark" width="80" height="80" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" alt="Quickdraw" width="80" height="80" />
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
