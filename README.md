@@ -36,8 +36,8 @@
   </a>
 </p>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=dev-ashxy&theme=dark&border_radius=4.7" alt="GitHub Streak" /></a>
+<p align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=dev-ashxy&theme=dark&border_radius=4.7" alt="GitHub Streak" /></a></p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-ashxy&show_icons=true&theme=tokyonight)
+<p align="center">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-ashxy&show_icons=true&theme=tokyonight)</p>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+<p align="center">[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)</p>
