@@ -1,7 +1,7 @@
 <div style="border: 2px solid #408332ff; padding: 20px; border-radius: 10px;">
 
-<h1 align="center">Hi 👋, I'm Asmit a.k.a SmooZie</h1>
-<h3 align="center">Aspiring Python Developer, I specialize in Database management,UI/UX</h3>
+<h1 align="center">Hi 👋, I'm Asmit</h1>
+<h3 align="center">An ECE'26 undergrad who loves sippin coffee, petting cats and touching some grass 😼</h3>
 
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
@@ -48,6 +48,8 @@
 <p align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=dev-ashxy&theme=dark&border_radius=4.7" alt="GitHub Streak" /></a></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=dev-ashxy&show_icons=true&theme=tokyonight" alt="Anurag's GitHub stats" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-ashxy&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="dev-ashxy" /></p>
 
 <p align="center"><a href="https://github.com/piyushsuthar/github-readme-quotes"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Readme Quotes" /></a></p>
 
