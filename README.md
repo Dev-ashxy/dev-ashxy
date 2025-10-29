@@ -59,7 +59,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-ashxy&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="dev-ashxy" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=dev-ashxy&theme=tokyonight"/></p>
+<p align="center"><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=dev-ashxy&theme=dark"/></p>
 
 <h2 align="center">Your Daily Dose of Motivation📑:</h2>
 <p align="center"><a href="https://github.com/piyushsuthar/github-readme-quotes"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Readme Quotes" /></a></p>
