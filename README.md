@@ -13,9 +13,9 @@
 <p><img align="center" src="https://github-profile-trophy.vercel.app/?username=dev-ashxy&theme=kimbie_dark" alt="dev-ashxy" /></p>
 
 
-- 🔭 I’m currently working on **Code-Playground**
+- 🔭 I’m currently working on **MediMate**
 
-- 🌱 I’m currently learning **DBMS**
+- 🌱 I’m currently learning **Data Science**
 
 - 💬 Ask me about **JAVA, Python, StreamLit, MongoDB, ReactJs, Tailwind**
 
@@ -53,7 +53,7 @@
 </p>
 
 <h2 align="center">Statistics 📈:</h2>
-<p align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Dev-ashxy" alt="GitHub Streak" /></a></a</a></a></p>
+<p align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Dev-ashxy" alt="GitHub Streak" /></a></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=dev-ashxy&show_icons=true&theme=tokyonight" alt="Anurag's GitHub stats" /></p>
 
